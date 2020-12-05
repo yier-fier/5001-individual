@@ -1,5 +1,5 @@
 # 5001-individual
-### python3.7 using clab to implement
+### python3.7 using colab to implement
 ### I think it is better for your to run this code in google colaboratory
 
 #### import numpy as np
